@@ -9,7 +9,7 @@ theme = "photo-grid"
 
 [params]
     # Meta
-    no_exif = true
+    no_exif = false
     title = "Photo Grid - Grid Gallery"
     subtitle = "This is my personal website to show my photos. Please enjoy!"
     author = "Chengsheng Deng"

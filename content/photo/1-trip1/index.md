@@ -1,18 +1,12 @@
 ---
 resources:
-- name: Photo name 1
+- name: Boston Fall
   params:
-    button_text: Button text
-    button_url: https://example.com
-    description: Photo description. If you want to add your own link, specify button_text and button_url here.
-    order: blue
-  src: 3x2_photo.png
-- name: Photo with EXIF
+    description: Walking through the streets in Boston in the morning, you can always find some different scenery.
+  src: BostonFall.jpg
+- name: Boston Street
   params:
-    description: This photo has EXIF info that is automatically extracted. Only JPG and TIFF files supports EXIF. If the automatically extracted time is incorrect, use "timestamp" field to supply your own time.
-    order: 1
-    timestamp: 2020-01-01 19:45
-  src: 3x2_with_exif.jpg
+  src: Street.jpg
 - name: Panorama
   params:
     description: Use the "title" field on top of this file to specify a series name for a stylized appearance. It is hidden if "title" is unspecified.
@@ -28,5 +22,5 @@ resources:
     description: Some description 4.
     order: 5
   src: square.png
-title: Series A
+title: Boston 
 ---
