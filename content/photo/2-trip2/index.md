@@ -35,6 +35,10 @@ resources:
 - name: Sunflower
   params: 
     order: 9
-  src: Sunflower.jpeg
+  src: Sunflower.jpeg 
+- name: Snow
+  params: 
+    order: 10
+  src: Snow.jpg
 title: Boston
 ---
