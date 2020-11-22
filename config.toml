@@ -11,9 +11,9 @@ theme = "photo-grid"
     # Meta
     no_exif = true
     title = "Photo Grid - Grid Gallery"
-    subtitle = "A customized theme for showing your photography work with minimal effort and multiple customization options. Click on each image to find out more about this theme"
-    author = "Chen Zhe"
-    description = "Photo Grid - Grid Gallery For Hugo"
+    subtitle = "This is my personal website to show my photos. Please enjoy!"
+    author = "Chengsheng Deng"
+    description = "Photo Grid - Shot on iPhone 12ProMax"
     keywords = "Hugo, Hugo theme, grid theme, gallery"
 
     # Body background and  text color
