@@ -16,5 +16,9 @@ resources:
   params: 
     order: 4 
   src: Rain.jpeg
+- name: Bird 
+  params: 
+    order: 5 
+  src: Bird.jpeg
 title: Boston
 ---
