@@ -39,6 +39,10 @@ resources:
 - name: Snow
   params: 
     order: 10
-  src: Snow.jpg
+  src: Snow.jpg 
+- name: Walking
+  params: 
+    order: 11
+  src: Walking.jpg 
 title: Boston
 ---
