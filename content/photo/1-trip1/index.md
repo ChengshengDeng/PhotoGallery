@@ -7,15 +7,16 @@ resources:
   src: BostonFall.jpg
 - name: Boston Street
   params:
+    order: 2
   src: Street.jpg
 - name: Reading Newspaper 
   params:
   src: People.jpg
-- name: Portrait
+- name: Different View
   params:
     description: Some description 2.
-    order: 4
-  src: portrait.png
+    order: 3
+  src: Different View.jpg
 - name: Square
   params:
     description: Some description 4.
