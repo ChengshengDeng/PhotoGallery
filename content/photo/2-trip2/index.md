@@ -4,11 +4,11 @@ resources:
   params:
     order: 1
   src: RedMan.jpg
-- name: Portrait
+- name: Path
   params:
     description: You don't have to use a number for ordering. Using text is also possible. This could be helpful if you wish to arrange photos by their color scheme
-    order: dark
-  src: portrait.png
+    order: 2
+  src: FootPath.jpg
 - name: Square
   params:
     description: You don't have to use a number for ordering. Using text is also possible. This could be helpful if you wish to arrange photos by their color scheme
