@@ -28,5 +28,9 @@ resources:
   params: 
     order: 7
   src: Stairs.jpeg
+- name: Tree
+  params: 
+    order: 8
+  src: Tree.jpeg
 title: Boston
 ---
