@@ -1,10 +1,9 @@
 ---
 resources:
-- name: Panorama
+- name: The Man with His Dog
   params:
-    description: Use the "title" field on top of this file to specify a series name for a stylized appearance. It is hidden if "title" is unspecified.
-    order: light
-  src: landscape_panorama.png
+    order: 1
+  src: RedMan.jpg
 - name: Portrait
   params:
     description: You don't have to use a number for ordering. Using text is also possible. This could be helpful if you wish to arrange photos by their color scheme
