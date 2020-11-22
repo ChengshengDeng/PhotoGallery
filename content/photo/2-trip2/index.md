@@ -56,5 +56,9 @@ resources:
   params: 
     order: 14
   src: Cloud.jpg
+- name: StreetNight
+  params: 
+    order: 15
+  src: StreetNight.jpg
 title: Boston
 ---
