@@ -48,5 +48,9 @@ resources:
   params: 
     order: 12
   src: Boat.jpeg
+- name: Janpanese Food
+  params: 
+    order: 13
+  src: Store.jpg
 title: Boston
 ---
