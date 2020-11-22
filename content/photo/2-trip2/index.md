@@ -32,5 +32,9 @@ resources:
   params: 
     order: 8
   src: Tree.jpeg
+- name: Sunflower
+  params: 
+    order: 9
+  src: Sunflower.jpeg
 title: Boston
 ---
