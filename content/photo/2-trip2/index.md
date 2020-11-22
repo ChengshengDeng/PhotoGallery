@@ -60,5 +60,9 @@ resources:
   params: 
     order: 15
   src: StreetNight.jpg
+- name: NightCar
+  params: 
+    order: 16
+  src: NightCar.jpeg
 title: Boston
 ---
