@@ -2,16 +2,15 @@
 resources:
 - name: Boston Fall
   params:
-    description: Walking through the streets in Boston in the morning, you can always find some different scenery.
+    description: Walking through the streets in Boston in the morning, you can always find some different sceneries.
+    order: 1
   src: BostonFall.jpg
 - name: Boston Street
   params:
   src: Street.jpg
-- name: Panorama
+- name: Reading Newspaper 
   params:
-    description: Use the "title" field on top of this file to specify a series name for a stylized appearance. It is hidden if "title" is unspecified.
-    order: 3
-  src: landscape_panorama.png
+  src: People.jpg
 - name: Portrait
   params:
     description: Some description 2.
