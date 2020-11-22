@@ -21,4 +21,4 @@ theme = "photo-grid"
     bodytextcolor = "#f2f2f2"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io), [Pavel](https://themes.gohugo.io/hugrid/) and [me](https://chen-zhe.github.io)."
+    footertext = "Made by Chengsheng Deng."
