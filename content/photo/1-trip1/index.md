@@ -17,10 +17,9 @@ resources:
     description: Some description 2.
     order: 3
   src: Different View.jpg
-- name: Square
+- name: PlayingSwing
   params:
-    description: Some description 4.
-    order: 5
-  src: square.png
+    order: 4
+  src: PlayingSwing.jpg
 title: Boston 
 ---
