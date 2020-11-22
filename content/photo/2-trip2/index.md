@@ -24,5 +24,9 @@ resources:
   params: 
     order: 6
   src: Bridge.JPG
+- name: Stairs
+  params: 
+    order: 7
+  src: Stairs.jpeg
 title: Boston
 ---
