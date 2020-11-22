@@ -44,5 +44,9 @@ resources:
   params: 
     order: 11
   src: Walking.jpg 
+- name: Boat
+  params: 
+    order: 12
+  src: Boat.jpeg
 title: Boston
 ---
