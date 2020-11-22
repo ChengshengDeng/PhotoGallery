@@ -9,9 +9,8 @@ resources:
     description: You don't have to use a number for ordering. Using text is also possible. This could be helpful if you wish to arrange photos by their color scheme
     order: 2
   src: FootPath.jpg
-- name: Square
+- name: Bicycle
   params:
-    description: You don't have to use a number for ordering. Using text is also possible. This could be helpful if you wish to arrange photos by their color scheme
-    order: light
-  src: square.png
+    order: 3
+  src: Bicycle.jpg
 ---
