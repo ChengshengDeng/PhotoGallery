@@ -52,5 +52,9 @@ resources:
   params: 
     order: 13
   src: Store.jpg
+- name: Cloud
+  params: 
+    order: 14
+  src: Cloud.jpg
 title: Boston
 ---
