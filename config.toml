@@ -11,7 +11,7 @@ theme = "photo-grid"
     # Meta
     no_exif = false
     title = "Photo Grid - Grid Gallery"
-    subtitle = "I made this website to share some photos I shot in Boston"
+    subtitle = "This website is used to share my photos shot in Boston. Time will make us forget many things, but photos will make our memories eternal."
     author = "Chengsheng Deng"
     description = "Photo Grid - Shot on iPhone 12ProMax"
     keywords = "Hugo, Hugo theme, grid theme, gallery"
