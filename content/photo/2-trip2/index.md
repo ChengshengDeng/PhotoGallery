@@ -12,5 +12,9 @@ resources:
   params:
     order: 3
   src: Bicycle.jpg
-title: Boston 
+- name: Rain 
+  params: 
+    order: 4 
+  src: Rain.jpeg
+title: Boston
 ---
