@@ -72,5 +72,9 @@ resources:
   params: 
     order: 18
   src: Block.jpeg
+- name: Light
+  params: 
+    order: 19
+  src: Light.jpeg
 title: Boston
 ---
