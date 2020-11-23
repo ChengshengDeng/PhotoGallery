@@ -3,9 +3,7 @@ baseurl = "http://example.org/"
 languageCode = "en-us"
 title = "Photo Grid - Grid Gallery For Hugo"
 theme = "photo-grid"
-
-# Enter your tracking code to enable Google Analytics
-# googleAnalytics = "UA-XXXXXXXX-Y"x
+googleAnalytics = "UA-178433381-4"
 
 [params]
     # Meta
