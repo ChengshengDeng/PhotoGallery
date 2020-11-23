@@ -76,5 +76,9 @@ resources:
   params: 
     order: 19
   src: Light.jpeg
+- name: Roof
+  params: 
+    order: 20
+  src: roof2.jpeg
 title: Boston
 ---
