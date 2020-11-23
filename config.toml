@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://example.org/"
 languageCode = "en-us"
-title = "Photo Grid - Grid Gallery For Hugo"
+title = "Photo Memories"
 theme = "photo-grid"
 googleAnalytics = "UA-178433381-4"
 
