@@ -63,6 +63,10 @@ resources:
 - name: NightCar
   params: 
     order: 16
-  src: NightCar.jpeg
+  src: NightCar.jpeg 
+- name: Roof
+  params: 
+    order: 17
+  src: roof.jpeg
 title: Boston
 ---
