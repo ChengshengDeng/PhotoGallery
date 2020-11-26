@@ -80,5 +80,9 @@ resources:
   params: 
     order: 20
   src: roof2.jpeg
+- name: Light And Shadow
+  params: 
+    order: 21
+  src: light.jpg
 title: Boston
 ---
