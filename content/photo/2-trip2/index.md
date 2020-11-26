@@ -91,6 +91,10 @@ resources:
 - name: Rainbow
   params: 
     order: 23
-  src: Rainbow.jpg
+  src: Rainbow.jpg 
+- name: Pigeon
+  params: 
+    order: 24
+  src: Pigeon.jpg
 title: Boston
 ---
