@@ -95,6 +95,10 @@ resources:
 - name: Pigeon
   params: 
     order: 24
-  src: Pigeon.jpg
+  src: Pigeon.jpg 
+- name: Red Building
+  params: 
+    order: 25
+  src: Red Building.jpg
 title: Boston
 ---
