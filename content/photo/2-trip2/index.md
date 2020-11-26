@@ -84,5 +84,9 @@ resources:
   params: 
     order: 21
   src: light.jpg
+- name: Corner
+  params: 
+    order: 22
+  src: Corner.jpg
 title: Boston
 ---
