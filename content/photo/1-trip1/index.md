@@ -20,6 +20,10 @@ resources:
 - name: PlayingSwing
   params:
     order: 4
-  src: PlayingSwing.jpg
+  src: PlayingSwing.jpg 
+- name: Light
+  params:
+    order: 5
+  src: Light.jpg
 title: Boston 
 ---
