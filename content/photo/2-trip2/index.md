@@ -87,6 +87,10 @@ resources:
 - name: Corner
   params: 
     order: 22 
-  src: Corner.jpg
+  src: Corner.jpg 
+- name: Rainbow
+  params: 
+    order: 23
+  src: Rainbow.jpg
 title: Boston
 ---
