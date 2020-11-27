@@ -104,5 +104,9 @@ resources:
   params: 
     order: 26
   src: Commenwealth.JPG
+- name: Yellow
+  params: 
+    order: 27
+  src: Leaf.jpeg
 title: Boston
 ---
