@@ -100,5 +100,9 @@ resources:
   params: 
     order: 25
   src: Red Building.jpg
+- name: Commonwealth Avenue
+  params: 
+    order: 26
+  src: Commenwealth.JPG
 title: Boston
 ---
