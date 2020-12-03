@@ -116,5 +116,13 @@ resources:
   params: 
     order: 29
   src: NightLight.jpeg
+- name: Exit
+  params: 
+    order: 30
+  src: Leaf.jpeg
+- name: Fall
+  params: 
+    order: 31
+  src: Fall.jpg
 title: Boston
 ---
