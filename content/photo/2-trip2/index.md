@@ -108,5 +108,13 @@ resources:
   params: 
     order: 27
   src: Leaf.jpeg
+- name: A Man Take Care His Child
+  params: 
+    order: 28
+  src: A Man Take Care His Child.jpeg
+- name: Night Light
+  params: 
+    order: 29
+  src: NightLight.jpeg
 title: Boston
 ---
