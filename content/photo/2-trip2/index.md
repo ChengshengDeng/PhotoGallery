@@ -124,5 +124,9 @@ resources:
   params: 
     order: 31
   src: Fall.jpg
+- name: Sunset
+  params: 
+    order: 32
+  src: sunset.jpg
 title: Boston
 ---
