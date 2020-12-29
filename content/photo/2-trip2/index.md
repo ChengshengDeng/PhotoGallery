@@ -128,5 +128,9 @@ resources:
   params: 
     order: 32
   src: sunset.jpg
+- name: Do Not Enter
+  params: 
+    order: 33
+  src: DoNotEnter.jpg 
 title: Boston
 ---
