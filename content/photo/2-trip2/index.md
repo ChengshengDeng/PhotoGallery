@@ -119,12 +119,12 @@ resources:
 - name: Exit
   params: 
     order: 30
-  src: Leaf.jpeg
+  src: Exit.jpeg
 - name: Fall
   params: 
     order: 31
   src: Fall.jpg
-- name: Sunset
+- name: sunset
   params: 
     order: 32
   src: sunset.jpg
