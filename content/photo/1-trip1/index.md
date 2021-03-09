@@ -37,5 +37,13 @@ resources:
   params:
     order: 8
   src: lightandshadow.jpg
+- name: Train
+  params:
+    order: 9
+  src: Train.jpg
+- name: Store
+  params:
+    order: 10
+  src: Store.jpg
 title: Boston 
 ---
