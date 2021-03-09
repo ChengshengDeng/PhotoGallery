@@ -29,5 +29,9 @@ resources:
   params:
     order: 6
   src: Lock.jpg
+- name: Water
+  params:
+    order: 7
+  src: water.jpg
 title: Boston 
 ---
