@@ -33,5 +33,9 @@ resources:
   params:
     order: 7
   src: water.jpg
+- name: Light And Shadow
+  params:
+    order: 8
+  src: lightandshadow.jpg
 title: Boston 
 ---
