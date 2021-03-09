@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "https://dylanphotogallery.netlify.app/"
 languageCode = "en-us"
 title = "Photo Memories"
 theme = "photo-grid"
