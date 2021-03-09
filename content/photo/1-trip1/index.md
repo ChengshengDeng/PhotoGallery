@@ -44,6 +44,10 @@ resources:
 - name: Store
   params:
     order: 10
-  src: Store.jpg
+  src: Store.jpg 
+- name: Back
+  params:
+    order: 11
+  src: Back.jpg
 title: Boston 
 ---
