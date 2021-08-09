@@ -144,6 +144,11 @@ resources:
   params: 
     order: 36
   src: CharlesRiver.jpg
+- name: Cat
+  params: 
+    order: 37
+  src: Cat.jpg
+  
 title: Boston 
 
 ---
