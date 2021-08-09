@@ -152,7 +152,7 @@ resources:
   params: 
     order: 38
   src: Shanghai.JPG
-  
+
 title: Boston 
 
 ---

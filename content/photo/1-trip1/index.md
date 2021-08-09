@@ -49,5 +49,9 @@ resources:
   params:
     order: 11
   src: Back.jpg
+- name: Lonely
+  params:
+    order: 12
+  src: Lonely.JPG
 title: Boston 
 ---
