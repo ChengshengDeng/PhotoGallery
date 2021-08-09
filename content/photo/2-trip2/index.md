@@ -139,15 +139,19 @@ resources:
 - name: BostonRiver
   params: 
     order: 35
-  src: BostonRiver.jpg
+  src: BostonRiver.JPG
 - name: CharlesRiver
   params: 
     order: 36
-  src: CharlesRiver.jpg
+  src: CharlesRiver.JPG
 - name: Cat
   params: 
     order: 37
   src: Cat.jpg
+- name: Shanghai
+  params: 
+    order: 38
+  src: Shanghai.JPG
   
 title: Boston 
 
