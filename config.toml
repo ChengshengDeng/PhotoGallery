@@ -2,7 +2,7 @@
 baseurl = "https://dylanphotogallery.netlify.app/"
 languageCode = "en-us"
 title = "Photo"
-theme = "ShotOniPhone"
+theme = "Photo Grid - Grid Gallery"
 googleAnalytics = "UA-178433381-4"
 
 [params]
