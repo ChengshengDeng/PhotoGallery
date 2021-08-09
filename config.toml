@@ -1,8 +1,8 @@
 # Site settings
 baseurl = "https://dylanphotogallery.netlify.app/"
 languageCode = "en-us"
-title = "Photo Memories"
-theme = "Shot On iPhone"
+title = "Photo"
+theme = "ShotOniPhone"
 googleAnalytics = "UA-178433381-4"
 
 [params]
