@@ -7,7 +7,7 @@ googleAnalytics = "UA-178433381-4"
 
 [params]
     # Meta
-    no_exif = false
+    no_exif = true 
     title = "Photo Grid - Grid Gallery"
     subtitle = "Chengsheng Deng"
     author = "Chengsheng Deng"
