@@ -138,8 +138,12 @@ resources:
   src: WomanInTheRain.jpg 
 - name: BostonRiver
   params: 
-    order: 34
+    order: 35
   src: BostonRiver.jpg
+- name: CharlesRiver
+  params: 
+    order: 36
+  src: CharlesRiver.jpg
 title: Boston 
 
 ---
